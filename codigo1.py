@@ -1,1 +1,2 @@
-print("Olá, sou a versão 1 do arquivo codigo1.py")
+print("Resolvemos o bug do codigo 1")
+
